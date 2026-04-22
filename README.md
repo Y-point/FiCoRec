@@ -8,17 +8,7 @@
 ### Run MaSwaRec
 Please run this code in RecBole
 
-```python run_recbole.py --model=MaSwaRec --dataset=ml-1m  --config_files=ml.yaml```  
-
-```python run_recbole.py --model=MaSwaRec --dataset=amazon-beauty --config_files=amazon.yaml```
-
-```python run_recbole.py --model=MaSwaRec --dataset=amazon-office-products --config_files=amazon.yaml```
-
-```python run_recbole.py --model=MaSwaRec --dataset=amazon-baby --config_files=amazon.yaml```
-
-```python run_recbole.py --model=MaSwaRec --dataset=amazon-musical-instruments  --config_files=amazon.yaml```  
-
-
+```python run.py```  
 
 
 ## Acknowledgment
